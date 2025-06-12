@@ -6,7 +6,6 @@
 *.json
 *.yaml
 *.yml
-*.md
 *.log
 *.csv
 *.txt
